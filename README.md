@@ -15,4 +15,3 @@
 ## How to Reach Me
 - Email: wycliffekaranjakariuki7991@gmail.com
 - LinkedIn:
-- Add my profile README
