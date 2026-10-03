@@ -15,3 +15,8 @@
 ## How to Reach Me
 - Email: wycliffekaranjakariuki7991@gmail.com
 - LinkedIn: wycliffe karanja
+
+- ## Setup
+
+user.name=wycliffe12
+user.email=wycliffekaranjakariuki7991@gmail.com
