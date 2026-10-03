@@ -16,7 +16,7 @@
 - Email: wycliffekaranjakariuki7991@gmail.com
 - LinkedIn: wycliffe karanja
 
-- ## Setup
+## Setup
 
 user.name=wycliffe12
 user.email=wycliffekaranjakariuki7991@gmail.com
