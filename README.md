@@ -18,5 +18,5 @@
 
 ## Setup
 
-user.name=wycliffe12
-user.email=wycliffekaranjakariuki7991@gmail.com
+- user.name=wycliffe12
+- user.email=wycliffekaranjakariuki7991@gmail.com
